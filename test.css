@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    font-size: 50px;
+    color: salmon;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    color: powderblue;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.big{
+    font-size: 60px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    color: royalblue;
+}
+
+h1 span{
+    color: violet;
+}
